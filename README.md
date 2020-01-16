@@ -1,7 +1,7 @@
 # Bootstrap Sandbox
 
-[Link to the Sandbox](http://rickybag.github.io/bootstrap/)
+Bootstrap reference with all the examples from the documentations divided in categories
 
 ![Screenshot](screen.png)
 
-[Link to the official Bootstrap Documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+[Press here to go to the Sandbox](http://rickybag.github.io/bootstrap/)
